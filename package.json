@@ -1,0 +1,16 @@
+{
+  "name": "gulii",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE",
+  "description": "谷里：谷团国际运费分摊与团员核对工具",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node scripts/test.mjs"
+  },
+  "author": "你好请吃我四发鹦鹉螺"
+}

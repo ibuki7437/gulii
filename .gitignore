@@ -1,0 +1,19 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+*.xlsx
+*.xls
+*.csv
+*.zip
+*.tar.gz
+.DS_Store
+Thumbs.db
+.openai/
+work/
+backups/
+user-data/
+
+# Only this anonymous tutorial workbook is intentionally published.
+!examples/练习排表.xlsx
